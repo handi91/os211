@@ -11,8 +11,8 @@
 # REV01 Tue 13 Oct 10:37:14 WIB 2020
 # START Mon 28 Sep 21:05:04 WIB 2020
 
-REC1="operatingsystems@vlsm.org"
 REC2="handiclement7@gmail.com"
+REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
