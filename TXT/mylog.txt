@@ -58,3 +58,11 @@ ZCZC W06 120 L13 Assignment #3
 ZCZC W06 15 L14 Assignment #4
 ZCZC W06 5 L15 Assignment #5
 ZCZC W06 5 L16 Assignment #6
+ZCZC W07 100 L02 ZOOM related: Monday Class
+ZCZC W07 30 L08 Trying something: Demo WEEK07
+ZCZC W07 60 L11 Assignment #1
+ZCZC W07 30 L12 Assignment #2
+ZCZC W07 120 L13 Assignment #3
+ZCZC W07 60 L14 Assignment #4
+ZCZC W07 5 L15 Assignment #5
+ZCZC W07 5 L16 Assignment #6
